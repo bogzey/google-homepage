@@ -1,0 +1,1 @@
+The current project is deconstructing an existing webpage and rebuild it. Focusing on how to structure elements on the page as well as how CSS is styles and aligns it.
